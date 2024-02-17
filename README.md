@@ -1,2 +1,2 @@
-# SoftUni-Coursses
-Software Technologies 2024
+# Software Technologies
+SoftUni-Coursses 2024
